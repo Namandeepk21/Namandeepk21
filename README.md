@@ -1,3 +1,4 @@
+👋 Hi, I'm a Web Developer & Data Analyst passionate about building interactive websites and analyzing data-driven insights. I have experience in HTML✨, CSS🎨, JavaScript✨, MySQL, R, and Excel.
 - 👋 Hi, I’m @Namandeepk21
 - 👀 I’m interested in web dev and data analysis
 - 🌱 I’m currently learning data analysis
